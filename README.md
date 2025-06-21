@@ -1,3 +1,15 @@
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=iyantama9&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=iyantama9&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iyantama9&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=iyantama9&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=iyantama9&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 🧑‍💻 Tech Stack
 <p align="center">
   <a href="https://shields.io/">
     <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin-right: 8px;" alt="React"/>
