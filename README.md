@@ -1,4 +1,3 @@
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=iyantama9&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=iyantama9&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iyantama9&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
