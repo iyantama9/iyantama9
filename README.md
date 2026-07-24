@@ -1,5 +1,3 @@
-![](https://github-readme-stats.vercel.app/api?username=iyantama9&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=iyantama9&theme=tokyonight&hide_border=true)<br/>
 
 ### 🧑‍💻 Tech Stack
 <p align="center">
