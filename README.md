@@ -1,12 +1,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=iyantama9&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=iyantama9&theme=tokyonight&hide_border=true)<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=iyantama9&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=iyantama9&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ### 🧑‍💻 Tech Stack
 <p align="center">
   <a href="https://shields.io/">
